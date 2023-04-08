@@ -226,10 +226,6 @@ const es:TranslateDictionary = ['es', {
     "auth/user-not-found": {
         toDev: "No existe ningún registro de usuario que corresponda al identificador proporcionado.",
         toClient: "Usuario no encontrado, por favor revise su información."
-    },
-    "auth/wrong-password": {
-        toDev: 'La contraseña no es válida o el usuario no tiene contraseña.',
-        toClient: 'La contraseña no es válida o el usuario no tiene contraseña.'
     }
 }]
 
